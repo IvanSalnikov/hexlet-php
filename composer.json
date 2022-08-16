@@ -1,0 +1,13 @@
+{
+    "name": "project1/hexlet1",
+    "description": "first project with composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
